@@ -59,6 +59,9 @@ First, let's add a workflow to lint (clean, like a lint roller) our Markdown fil
 1. Click **Create pull request**.
 1. Wait about 20 seconds and then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
 
+## Status badge
+![example branch parameter.](https://github.com/hjha19121980/skills-test-with-actions/actions/workflows/blank.yml/badge.svg?branch=hjha19121980-patch-1)
+
 <footer>
 
 <!--
