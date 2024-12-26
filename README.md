@@ -66,7 +66,7 @@ First, let's add a workflow to lint (clean, like a lint roller) our Markdown fil
 | hjha19121980-patch-1        | ![example branch parameter.](https://github.com/hjha19121980/skills-test-with-actions/actions/workflows/blank.yml/badge.svg?branch=hjha19121980-patch-1)     |
 
 
-[![CI](https://github.com/hjha19121980/skills-test-with-actions/actions/workflows/blank.yml/badge.svg)](https://github.com/hjha19121980/skills-test-with-actions/actions/workflows/blank.yml)
+
 
 
 <footer>
